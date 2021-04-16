@@ -8,7 +8,7 @@ I study computer science at the Technical University of Applied Sciences in Rege
 
 ### Talking about Personal Interests
 
-- 👨🏽‍💻 I'm currently working on: <a href="https://github.com/markuskooche/LightSwitch">LightSwitch</a>
+- 👨🏽‍💻 I'm currently working on: ReversiXT <!--a href="https://github.com/markuskooche/LightSwitch">LightSwitch</a-->
 - 🧠 I'm currently learing: Machine Learning
 - 🤖 I'm a fan of automations with: Python
 - 🏔 I'm addicted to: Mountains
