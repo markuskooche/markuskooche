@@ -8,11 +8,11 @@ I study computer science at the Technical University of Applied Sciences in Rege
 
 ### Talking about Personal Interests
 
-- 👨🏽‍💻 I'm currently working on: SparkEntertainment
+- 👨🏽‍💻 I'm currently working on: Smart Home Accessories
 - 🧠 I'm currently learning: Machine Learning
-- 🤖 I'm a fan of automations with: Python
+- 🤖 I'm a fan of: Backend Development with Laravel
 - 🏔 I'm addicted to: Mountains
-- 💬 Ask me about: Java, Python
+- 💬 Ask me about: Laravel
 
 
 ### Get in Touch
