@@ -14,7 +14,7 @@ I'm a passionate computer scientist from Bavaria, Germany. I work as a DevOps En
 
 ### Get in Touch
 
-<a href="https://www.markuskooche.com/">Website</a><br/>
-<a href="https://www.linkedin.com/in/markuskooche/">Linkedin</a><br/>
-<a href="https://twitter.com/markuskooche/">Twitter</a><br/>
-<a href="https://instagram.com/markuskooche/">Instagram</a><br/>
+- <a href="https://www.markuskooche.com/">Website</a><br/>
+- <a href="https://www.linkedin.com/in/markuskooche/">Linkedin</a><br/>
+- <a href="https://twitter.com/markuskooche/">Twitter</a><br/>
+- <a href="https://instagram.com/markuskooche/">Instagram</a><br/>
